@@ -1,0 +1,44 @@
+.high
+{
+    width: 100%;
+    height: 500px;
+}
+
+.campus-life-main-div
+{
+    border: 3px solid lightgrey;
+}
+
+.campus-life-main-div img
+{
+    width: 100%;
+}
+
+.campus-life-main-div h5 , .campus-life-main-div p
+{
+    margin: 20px;
+}
+
+.ach-head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10%;
+    margin-bottom: 15px;
+}
+
+.ach-head i
+{
+    float: right;
+}
+
+.ach1_text span
+{
+    color: orange;
+}
+
+#special_star
+{
+    color: gray;
+}
+
